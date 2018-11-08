@@ -1,0 +1,22 @@
+{
+  "friends": [{
+    "title" : "Cute Cat",
+    "name": "cat1",
+    "shortname" : "cat1",
+    "summary" : "cat curling its tongue out",
+    "description": "<p>This is a cute cat </p>"
+    },{
+    "title" : "Adorable cat",
+    "name": "cat2",
+    "shortname" : "cat2",
+    "summary": "I love this cat",
+    "description": "<p>cat 2</p>"
+  },{
+    "title" : "stern cat",
+    "name": "cat3",
+    "shortname" : "cat3",
+    "summary": "cute chat with white background",
+    "description": "<p> serious looking cat </p>"
+
+  }]
+}
